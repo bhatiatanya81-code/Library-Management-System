@@ -1,0 +1,22 @@
+{
+    "01": {
+        "member_id": "01",
+        "name": "tanya",
+        "borrowed_books": []
+    },
+    "02": {
+        "member_id": "02",
+        "name": "harsh",
+        "borrowed_books": []
+    },
+    "03": {
+        "member_id": "03",
+        "name": "khushi",
+        "borrowed_books": []
+    },
+    "04": {
+        "member_id": "04",
+        "name": "nitin",
+        "borrowed_books": []
+    }
+}

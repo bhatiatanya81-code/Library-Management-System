@@ -1,0 +1,32 @@
+{
+    "001": {
+        "book_id": "001",
+        "title": "Dsa",
+        "author": "harsh",
+        "available": true
+    },
+    "002": {
+        "book_id": "002",
+        "title": "Full Stack Develpment",
+        "author": "S.p Acharya",
+        "available": true
+    },
+    "003": {
+        "book_id": "003",
+        "title": "python",
+        "author": "Neha Kaushik",
+        "available": true
+    },
+    "004": {
+        "book_id": "004",
+        "title": "Moon Walk",
+        "author": "Michael Jackson",
+        "available": true
+    },
+    "005": {
+        "book_id": "005",
+        "title": "Idols",
+        "author": "Sunil Gavaskar",
+        "available": true
+    }
+}
